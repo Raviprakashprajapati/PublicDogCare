@@ -1,0 +1,237 @@
+#topnav{
+    padding: 0 8%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(0 0 0);
+    font-weight: 700;
+    font-size: x-large;
+    padding-left: 50px;
+}
+
+
+
+#searchbox{
+    background-color: #fcc302;
+    color: white;
+    border: 0; 
+    border-radius: 0;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#searchbutton{
+  
+    background-color: aqua;
+    box-shadow: 5px 5px 5px grey;
+ 
+
+}
+
+
+
+@media screen and (max-width:800px){
+
+    #searchform{
+        margin-bottom: 15px;
+        position: relative;
+     
+    }
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-left: -30px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-left: -40px;
+}
+
+.d-flex {
+    display: flex!important;
+    margin-bottom: 20px;
+}
+
+/*banner*/
+#banner{
+    background-color: #fcc302;
+    height: 500px;
+}
+
+
+#h11{
+    font-size: 70px;
+    margin-top: 70px;
+    color: white;
+}
+
+
+#p11{
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+
+#button01{
+     background-color: #00bce9;
+     border: 3px solid #00bce9;
+     color: white;
+}
+
+#button02{
+    background-color: #00bce9;
+    border: 3px solid #00bce9;
+    color: white;
+
+}
+
+
+@media only screen and (max-width:1300px){
+
+    #h11{
+        font-size: 40px;
+    }
+
+    #p11{
+        font-size: 15px;
+    }
+}
+    
+@media only screen and (max-width:912px){
+    #imgdog{
+      padding-top: 30px;
+    }
+}
+
+
+#servicetext{
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+
+#buttonservice{
+    background-color: #00bce9;
+    border: 3px solid black;
+    color: aliceblue;
+}
+
+
+#imgservice{
+  
+    margin-top: 10%;
+    margin-left: 10%;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px black;
+}
+
+@media only screen and (max-width:500px)
+{
+    #imgservice{
+        margin-left: -1%;
+    }
+}
+
+
+
+#rowsection{
+    background-image: url('../image01/doggroupnew.jpg'); 
+    
+}
+
+
+
+#icon1{
+    color: yellow;
+    font-size: 70px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+
+
+@media only screen and (max-width:500px){
+
+    #icon1{
+        color: yellow;
+        font-size: 30px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+    
+#rowsection{
+    background-image: url('../image01/doggroupnew.jpg'); 
+    margin-top: 20px;
+    
+}
+
+}
+
+
+#recentpost{
+    padding-top: 30px;
+    font-weight: bolder;
+}
+
+#blogpp{
+    font-size: 20px;
+}
+
+#rowblog{
+    font-size: 20px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+}
+
+.articledetail{
+    padding: 15px;
+    border: 2px solid rgb(185, 185, 185);
+    border-top: 0;
+}
+
+
+#footer{
+    background-color: #343434;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+#footer a{
+    color: yellow;
+    text-decoration: none;
+}
+
+
+#footerform{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+#footertext{
+    background-color: yellow;
+    color: white;
+    border: 0;
+    padding: 10px;
+    width: 60%;
+    position: relative;
+    left: 10px;
+    color: white;
+}
+#footerbutton{
+    background-color: blueviolet;
+    padding: 10px;
+    width: 15%;
+    border: 0;
+}
+
+#socail{
+    font-size: 200%;
+    padding: 5px;
+}
